@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MountWindowsServer", "MountWindowsServer.csproj", "{A28BC568-E696-4AA6-B64D-64FFF324220D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A28BC568-E696-4AA6-B64D-64FFF324220D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A28BC568-E696-4AA6-B64D-64FFF324220D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A28BC568-E696-4AA6-B64D-64FFF324220D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A28BC568-E696-4AA6-B64D-64FFF324220D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49B5FAA4-AC13-4BCC-BFEF-C456D1DC3F80}
+	EndGlobalSection
+EndGlobal
